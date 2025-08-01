@@ -7,7 +7,7 @@ sessionStorage.setItem("Age", age);
 }
 else {
   alert("you are way too young")
-window.location.assign("https://google.com)
+window.location.assign("https://google.com")
 }
 
 
