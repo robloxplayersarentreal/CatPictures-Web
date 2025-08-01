@@ -1,3 +1,4 @@
+//function for checking if they like dogs
 window.onlaod = function agecheck() {
 
  const dogs = ["Dogs","Dog","dog","dogs","DOGS","DOG"]
