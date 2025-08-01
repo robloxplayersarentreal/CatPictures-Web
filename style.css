@@ -1,0 +1,36 @@
+H1 {
+color:white;
+font-size:20px;
+background-color:grey;
+padding:20px;
+border-radius:30px;
+}
+body {
+background-color:lightgrey;
+}
+p {
+
+
+
+
+}
+p1 {
+font-size:10px;
+position: relative;
+left: 200px;
+
+
+}
+
+p3 {
+  position:relative;
+  left: 500px;
+}
+
+button {
+border-radius: 20px;
+color: white;
+background-color:green;
+position: relative;
+left:620px;
+}
