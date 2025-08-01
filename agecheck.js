@@ -1,14 +1,14 @@
-function agecheck() {
+window.onlaod = function agecheck() {
 
- age = prompt("How old are you: ")
-if (age > 12){
-alert("Welcome")
-sessionStorage.setItem("Age", age);
+ const dogs = ["Dogs","Dog","dog","dogs","DOGS","DOG"]
+ dog? = prompt("Dogs or Cats")
+if (dog? = dogs){
+alert("NO DOG PEOPLE ALLOWED")
+window.location.assign("https://www.thesprucepets.com/why-cats-are-better-than-dogs-554880")
 }
 else {
-  alert("you are way too young")
-window.location.assign("https://google.com")
+  alert("Welcome")
 }
 
-
+}
 }
